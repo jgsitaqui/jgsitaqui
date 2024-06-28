@@ -1,7 +1,7 @@
 # 👍 Buenas, Eu sou o Jonas!
 E ai tudo tranquilo? Pois é, é assim que eu começo! :rage2: 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 ## 📋 Quem sou eu?
