@@ -15,6 +15,8 @@ Depois de anos trabalhando com o front-end que eu gosto de coração, tive uma d
 * Espero que tenhamos muitas e muitas conversas  a base de 🍺 para alinhar as estratégias.
 * E vamos lá para o outro desafio! Vamos juntos 🤓.
 
+* ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 
 ---
 ⌨️ com ❤️ por [Jonas Goular da Silva](https://gist.github.com/jgsitaqui) 😊
