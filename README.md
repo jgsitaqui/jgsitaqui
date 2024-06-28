@@ -1,7 +1,7 @@
 # 👍 Buenas, Eu sou o Jonas!
 E ai tudo tranquilo? Pois é, é assim que eu começo! :rage2: 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/jonas-goulart-48251829/)](https://www.linkedin.com/in/jonas-goulart-48251829/)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📋 Quem sou eu?
